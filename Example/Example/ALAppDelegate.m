@@ -2,7 +2,7 @@
 //  ALAppDelegate.m
 //  Example
 //
-//  Copyright (c) 2013 Tyler Fox
+//  Copyright (c) 2013 Tyler Fox by allen
 //  https://github.com/smileyborg/UIView-AutoLayout
 //
 
